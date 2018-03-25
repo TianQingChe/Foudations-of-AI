@@ -1,0 +1,6 @@
+[SearchAgent] using function depthFirstSearch
+[SearchAgent] using problem type PositionSearchProblem
+Start: (34, 16)
+Is the start a goal? False
+Start's successors: [((34, 15), 'South', 1), ((33, 16), 'West', 1)]
+<searchAgents.PositionSearchProblem instance at 0x00000000064ADCC8>
